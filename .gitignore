@@ -1,0 +1,8 @@
+gnltest/
+.DS_store
+*.exe
+*.pdf
+main.c
+test.*
+.vscode
+.DS_Store
